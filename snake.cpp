@@ -1,6 +1,5 @@
 /*g++ E:\CPP\Practice\snake.cpp -o E:\CPP\Practice\snake.exe
   E:\CPP\Practice\snake.exe
-
   Taskkill /F /IM "snake.exe" /T*/
 
 #include <iostream>
